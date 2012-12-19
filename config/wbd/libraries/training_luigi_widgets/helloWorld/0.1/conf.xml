@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.training_luigi.widgets.HelloWorldWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>helloWorld</label>
+  <description>Hello World</description>
+</widget>
